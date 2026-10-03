@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://suc1925.github.io/sitemap.xml
+Sitemap: https://suc1925.github.io/song-for-a-century/sitemap.xml
